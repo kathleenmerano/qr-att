@@ -1,6 +1,6 @@
 import { Redirect, Stack, useSegments } from 'expo-router';
 import { ActivityIndicator, StyleSheet, View } from 'react-native';
-
+// Import your COLORS constant from the appropriate path
 import { COLORS } from '@/constants/colors';
 import { useAuth } from '@/lib/auth';
 
